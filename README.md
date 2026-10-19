@@ -453,6 +453,7 @@ Therefore, the average satisfaction score represents **recorded responses only**
 
 ---
 
+
 ## Referral Information
 
 A significant number of records are categorised as **No Referral**.
